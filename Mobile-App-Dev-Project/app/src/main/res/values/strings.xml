@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">XpenseTrack</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="login_capital">Login</string>
+    <string name="signUp_capital">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_here">Login Here</string>
+    <string name="register">Register</string>
+    <string name="log_out">Log Out</string>
+    <string name="app_logo">App Logo</string>
+    <string name="add_expense">Add\nExpense</string>
+    <string name="view_expenses">View Expenses</string>
+    <string name="expenditure"><u>Expenditure</u></string>
+    <string name="total">Total</string>
+    <string name="monthly">Monthly</string>
+    <string name="average">Average</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="expenses">Expenses</string>
+    <string name="overview">Overview</string>
+    <string name="add_expenses">Add Expense</string>
+    <string-array name="categories">
+        <item>Category</item>
+        <item><b>Bills</b></item>
+        <item><b>Clothes</b></item>
+        <item><b>Food</b></item>
+        <item><b>Groceries</b></item>
+        <item><b>Travel</b></item>
+        <item><b>Others</b></item>
+    </string-array>
+</resources>
